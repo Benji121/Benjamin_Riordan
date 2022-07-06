@@ -1,0 +1,46 @@
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#img1 {
+    display: flex;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+
+}
+
+#img2 {
+    display: flex;
+    max-width: 100%;
+    max-height: 100%;
+    border: solid darkgrey 5px;
+    border-radius: 15%;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+#P1,
+#H1 {
+    color: rgb(0, 4, 255);
+
+}
+
+.P1-am {
+    color: rgb(14, 12, 12);
+}
+
+.container {
+    padding: top 50px;
+}
+
+#IMG3 {
+    width: 100%;
+    height: 100%;
+}
